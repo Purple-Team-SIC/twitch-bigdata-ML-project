@@ -31,7 +31,7 @@ Install npm required modules:
 
 `flume-ng agent --name agent1 --conf flume.conf`
 
-### 6. Finnaly, run the real-time message analysis!
+### 6. Finally, run the real-time message analysis!
 
 Open **analysis.ipynb** in Jupyter Notebook
 
